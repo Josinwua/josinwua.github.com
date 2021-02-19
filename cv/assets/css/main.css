@@ -1,0 +1,47 @@
+body{
+ font-family: sans-serif;
+ background: #F8F8FF;
+}
+
+h1{
+ display: inline-block;
+ width: 400px;
+}
+
+p{
+  display: inline-block;
+  width: 350px;
+  font-size:23px;
+  font-weight:lighter;
+}
+
+.banner{
+ background: #64C2FF;
+ text-align: center;
+ padding:16px;
+ width: 980px;
+ margin-right:auto;
+ margin-left:auto;
+}
+
+.slogan{
+  background: #000000;
+  text-align: center;
+  padding:8px;
+  width: 996px;
+  margin-right:auto;
+  margin-left:auto;
+  color: #ffffff;
+}
+
+.foto{
+ width: 200px;
+ border: solid 3px;
+}
+
+#foto{
+  display: inline-block;
+  width:30%;
+  margin-top:25px;
+  text-align: center;
+}
